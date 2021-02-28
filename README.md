@@ -7,7 +7,7 @@ Learn How To Make A Website Using HTML And CSS | Latest Website UI Design With H
 
 Here in this video you will learn to design a website using HTML And CSS step by step
 -------------------------------------
-Download Source Code : https://github.com/MuaamaarrQadafi/Responsive-Slider.git
+Download Source Code : https://github.com/MuaamaarrQadafi/Effect-Parallax-HTML-and-CSS---Visual-Studio-Code.git
 
 -------------------------------------
 Like - Follow & Subscribe us:
